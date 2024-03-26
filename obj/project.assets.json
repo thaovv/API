@@ -2871,11 +2871,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "D:\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "d:\\DatingApp\\API\\API.csproj",
+      "projectPath": "D:\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "d:\\DatingApp\\API\\obj\\",
+      "outputPath": "D:\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
