@@ -174,7 +174,7 @@
         "Country": "Poland",
         "Photos": [
             {
-                "Url": "https://randomuser.me/api/portraits/men/11.jpg",
+                "Url": "./assets/kk.jpg",
                 "IsMain": true,
                 "PublicId": "user_11"
 
